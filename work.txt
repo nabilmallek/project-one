@@ -1,6 +1,3 @@
- create home page
-
 create servece page
-
 create contact page
 create images page
